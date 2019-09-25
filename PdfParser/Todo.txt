@@ -1,0 +1,3 @@
+﻿- Csv export
+- async await logiku i izbaciti application.doevents
+- drag and drop ? u winforms // wpf // electron
